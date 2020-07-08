@@ -23,6 +23,10 @@ It will have a file "README.md" in the project root folder. Likewise, creating
 such a file in your existing project will cause it to be rendered as HTML
 on the project's home page. This also works for a file named "README.markdown".
 
+## About Aaron Swartz
+
+- [The internet's own boy: The story of Aaron Swartz. Full movie 2014: https://www.youtube.com/watch?v=9vz06QO3UkQ](https://www.youtube.com/watch?v=9vz06QO3UkQ)
+
 ## How was it made?
 
 This slide deck was made using  multiple Markdown files and then
