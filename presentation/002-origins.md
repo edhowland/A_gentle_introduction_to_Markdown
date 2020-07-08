@@ -2,7 +2,8 @@
 
 ## Origins
 
-Markdown was proposed in 2004 by John Gruber of the "Daring Fireball" blog fame.
+Markdown was proposed in 2004 by John Gruber of the "Daring Fireball" blog fame
+in collaboration with Arron Swartz a programmer and Open Source advocate.
 
 ## Variants and standardization efforts
 

@@ -37,18 +37,18 @@ They can be out of sequence, but must start with : '1.'
 
 <pre>
 1. List number 1
-2. List number 2
-3. List number 3
-4. List number 4
+3. List number 2
+4. List number 3
+2. List number 4
 </pre>
 
 Becomes:
 
 
 1. List number 1
-2. List number 2
-3. List number 3
-4. List number 4
+3. List number 2
+4. List number 3
+2. List number 4
 ***
 
 [Previous:007](007-lists.html) [Top:001](001-intro_bio.html) [Next:009](009-links.html)
