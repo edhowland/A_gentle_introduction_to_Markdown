@@ -2,11 +2,11 @@
 
 <hr />
 
-<h1>Lists, continued</h1>
-
-<h3>Nested lists</h3>
+<h1>Nested Lists</h1>
 
 <p>To nest a list within another list, indent it by 4 spaces.</p>
+
+<h2>Nested unordered lists</h2>
 
 <pre>
 - First item 
@@ -32,26 +32,46 @@
 
 <p>Note: We mixed '-' and '*' to visually distinguish between nesting levels.</p>
 
-<h3>Ordered lists</h3>
+<h2>Nested ordered lists</h2>
 
-<p>Ordered lists use numbers followed by a period: '.'
-They can be out of sequence, but must start with : '1.'</p>
+<p>Again, create new indentation levels by preceding each  item with 4 spaces.
+Start each new nesting level with '1.' and again, they can be out of order after that.</p>
 
 <pre>
-1. List number 1
-3. List number 2
-4. List number 3
-2. List number 4
+1. Step 1
+3. Step 2
+    1. Step 2.1
+    3. Step 2.2
+        1. Step 2.2.1
+        4. Step 2.2.2
+    9. Step 2.3
+10. Step 3
 </pre>
 
 <p>Becomes:</p>
 
 <ol>
-<li>List number 1</li>
-<li>List number 2</li>
-<li>List number 3</li>
-<li>List number 4</li>
+<li>Step 1</li>
+<li>Step 2
+<ol>
+<li>Step 2.1</li>
+<li>Step 2.2
+<ol>
+<li>Step 2.2.1</li>
+<li>Step 2.2.2</li>
+</ol></li>
+<li>Step 2.3</li>
+</ol></li>
+<li>Step 3</li>
 </ol>
+
+<h2>Notes</h2>
+
+<ul>
+<li>Ordered and Unordered lists can be nested within each other.</li>
+<li>Markdown does not support dotted style for sub headings like 2.4, 2.5 .etc</li>
+<li>You may be accomplish via bare HTML and some combination of CSS.</li>
+</ul>
 
 <hr />
 
