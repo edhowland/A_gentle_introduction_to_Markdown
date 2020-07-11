@@ -22,6 +22,7 @@ format have been met with less than stellar results
 - [Wikipedia article on Markdown with many extra links:https://en.wikipedia.org/wiki/Markdown](https://en.wikipedia.org/wiki/Markdown)
 - [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 - [Cheatsheet: https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)
+- [w3schools.io Tutorial and reference about Markdown https://www.w3schools.io/file/markdown-introduction/](https://www.w3schools.io/file/markdown-introduction/)
 - [The original Perl script by John Gruber: https://daringfireball.net/projects/downloads/Markdown_1.0.1.zip](https://daringfireball.net/projects/downloads/Markdown_1.0.1.zip)
 
 ## This presentation
