@@ -28,9 +28,26 @@ $ docker run -d -p 80:80 --name md.intro rwcitek/markdown.intro
 
 Then point your browser at 127.0.01
 
+## Dockerfile
+
+To get the Dockerfile used to build his image:
+
+
+Note: Remember  that container 'md.intro' must be running before you can 
+'docker exec' into it.
+
+```
+$ docker exec md.intro cat /Dockerfile 
+```
+
+
+
+## Stopping the docker web service and removing the container
+
 To stop the docker web service:
 
 ```
-$ docker kill md.intro
+$ docker kill md.intro && sleep 30 && docker rm md.intro
 ```
+
 
