@@ -40,6 +40,8 @@ Note: Remember  that container 'md.intro' must be running before you can
 $ docker exec md.intro cat /Dockerfile 
 ```
 
+For your own use, the Dockerfile is included here in the './docker/Dockerfile'
+
 
 
 ## Stopping the docker web service and removing the container
