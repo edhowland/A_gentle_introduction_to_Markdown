@@ -16,3 +16,21 @@ $ cd A_gentle_introduction_to_Markdown
 $ ./mkhtml.sh
 ```
 
+
+
+## Running in Docker
+
+To run Robert Citeks Docker image of this presentation as a web service, do this:
+
+```
+$ docker run -d -p 80:80 --name md.intro rwcitek/markdown.intro 
+```
+
+Then point your browser at 127.0.01
+
+To stop the docker web service:
+
+```
+$ docker kill md.intro
+```
+
