@@ -59,10 +59,7 @@ for i in ${!htmls[@]}
 do
   ./Markdown_1.0.1/Markdown.pl tmp/${mds[$i]} > html/${htmls[$i]}
 done
-exit
 
-#    for i in presentation/*;
-#    do
-#  ./Markdown_1.0.1/Markdown.pl $i > html/$(fmtname $i)
-#    done
 
+
+test -f ./html/001-intro_bio.html && ln html/001-intro_bio.html html/index.html
