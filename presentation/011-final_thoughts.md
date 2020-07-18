@@ -12,6 +12,44 @@
 
 and many more.
 
+## Displaying Markdown in your terminal
+
+You can use the 'glow'  application to pretty print your Markdown files in
+from the  command line.
+
+### Installation
+
+See the main source page on github.com for install directions:
+
+[Glow on Github](https://github.com/charmbracelet/glow)
+
+[Glow binary releases](https://github.com/charmbracelet/glow/releases)
+
+Then try this to see this page:
+
+```
+$ glow 011-final_thoughts.md
+```
+
+### Use 'bat' 
+
+Bat is a drop-in replacement for the 'cat' utility written in Rust with many
+features like syntax highlighting. Bat supports Markdown files natively.
+
+#### Installation
+
+[Bat on Github](https://github.com/sharkdp/bat)
+
+Then:
+
+```
+$ bat -l markdown 011-final_thoughts.md
+```
+
+
+
+
+
 ## Github
 
 If you create a new project on github.com, and choose the "Add a README"
