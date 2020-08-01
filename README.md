@@ -8,7 +8,7 @@ Slides from July 8th, 2020 tutorial on Markdown
 
 For the impatient, follow this link to view the slide deck:
 
-[A Gentle Introduction to Markdown](https://html/001-intro_bio.html)
+[A Gentle Introduction to Markdown](html/001-intro_bio.html)
 
 ## Generating the slide deck
 
