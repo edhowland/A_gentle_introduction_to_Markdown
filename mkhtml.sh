@@ -35,18 +35,18 @@ done
 #echo ${htmls[@]}
 
 # Now annotate the markdown files with links to prev, top and next .html documents
-mkdir -p ./tmp
+
 touch presentation/empty
 for i in ${!mds[@]}
 do
-  echo "# Page $(page_no ${htmls[$i]}) | A Gentle Introduction to Markdown" > ./tmp/${mds[$i]}
-  echo "***" >> ./tmp/${mds[$i]}
-  echo  >> ./tmp/${mds[$i]}
+  echo "# Page $(page_no ${htmls[$i]}) | A Gentle Introduction to Markdown" > ./slides/${mds[$i]}
+  echo "***" >> ./slides/${mds[$i]}
+  echo  >> ./slides/${mds[$i]}
 
-  cat presentation/${mds[$i]} >> ./tmp/${mds[$i]}
-  echo "***" >>   ./tmp/${mds[$i]}
-  echo >>   ./tmp/${mds[$i]}
-  echo "[Previous:$(page_no ${htmls[$(expr $i - 1)]})](${htmls[$(expr $i - 1)]}) [Top:001](${htmls[1]}) [Next:$(page_no ${htmls[$(expr $i + 1)]})](${htmls[$(expr $i + 1)]})" >> ./tmp/${mds[$i]}
+  cat presentation/${mds[$i]} >> ./slides/${mds[$i]}
+  echo "***" >>   ./slides/${mds[$i]}
+  echo >>   ./slides/${mds[$i]}
+  echo "[Previous:$(page_no ${htmls[$(expr $i - 1)]})](${htmls[$(expr $i - 1)]}) [Top:001](${htmls[1]}) [Next:$(page_no ${htmls[$(expr $i + 1)]})](${htmls[$(expr $i + 1)]})" >> ./slides/${mds[$i]}
 done
 rm presentation/empty
 
@@ -57,7 +57,7 @@ rm presentation/empty
 rm -f  html/*
 for i in ${!htmls[@]}
 do
-  ./Markdown_1.0.1/Markdown.pl tmp/${mds[$i]} > html/${htmls[$i]}
+  ./Markdown_1.0.1/Markdown.pl slides/${mds[$i]} > html/${htmls[$i]}
 done
 
 
