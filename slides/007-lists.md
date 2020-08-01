@@ -54,4 +54,4 @@ Becomes:
 
 ***
 
-[Previous:006](006-text_spans.html) [Top:001](001-intro_bio.html) [Next:008](008-nested_lists.html)
+[Previous:006](006-text_spans.md) [Top:001](001-intro_bio.md) [Next:008](008-nested_lists.html)

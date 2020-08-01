@@ -73,4 +73,4 @@ Becomes:
 
 ***
 
-[Previous:007](007-lists.html) [Top:001](001-intro_bio.html) [Next:009](009-links.html)
+[Previous:007](007-lists.md) [Top:001](001-intro_bio.md) [Next:009](009-links.html)

@@ -31,4 +31,4 @@ Here is the invisible part between horizontal rules:
 
 ***
 
-[Previous:003](003-blocks_vs_spans.html) [Top:001](001-intro_bio.html) [Next:005](005-blocks.html)
+[Previous:003](003-blocks_vs_spans.md) [Top:001](001-intro_bio.md) [Next:005](005-blocks.html)

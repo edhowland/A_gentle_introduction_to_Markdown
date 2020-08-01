@@ -77,4 +77,4 @@ Gruber
 The next slide is a downloaded Markdown Cheat Sheet  from[The Markdown Guide:https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/) 
 ***
 
-[Previous:010](010-code_blocks.html) [Top:001](001-intro_bio.html) [Next:012](012-markdown_cheat_sheet.html)
+[Previous:010](010-code_blocks.md) [Top:001](001-intro_bio.md) [Next:012](012-markdown_cheat_sheet.html)

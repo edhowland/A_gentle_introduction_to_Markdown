@@ -46,4 +46,4 @@ It will appear as:
 
 ***
 
-[Previous:008](008-nested_lists.html) [Top:001](001-intro_bio.html) [Next:010](010-code_blocks.html)
+[Previous:008](008-nested_lists.md) [Top:001](001-intro_bio.md) [Next:010](010-code_blocks.html)

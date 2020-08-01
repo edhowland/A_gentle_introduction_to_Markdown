@@ -25,4 +25,4 @@ hard break, resetting the flow back to left edge and down some vertical amount.
 
 ***
 
-[Previous:002](002-origins.html) [Top:001](001-intro_bio.html) [Next:004](004-hello.html)
+[Previous:002](002-origins.md) [Top:001](001-intro_bio.md) [Next:004](004-hello.html)

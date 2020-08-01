@@ -35,4 +35,4 @@ format have been met with less than stellar results
 
 ***
 
-[Previous:001](001-intro_bio.html) [Top:001](001-intro_bio.html) [Next:003](003-blocks_vs_spans.html)
+[Previous:001](001-intro_bio.md) [Top:001](001-intro_bio.md) [Next:003](003-blocks_vs_spans.html)

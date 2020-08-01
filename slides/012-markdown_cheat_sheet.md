@@ -112,4 +112,4 @@ term
 </pre>
 ***
 
-[Previous:011](011-final_thoughts.html) [Top:001](001-intro_bio.html) [Next:013](013-q_and_a.html)
+[Previous:011](011-final_thoughts.md) [Top:001](001-intro_bio.md) [Next:013](013-q_and_a.html)

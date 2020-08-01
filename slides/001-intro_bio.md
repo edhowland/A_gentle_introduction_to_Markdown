@@ -23,4 +23,4 @@ Ed currently resides in Grand Rapids, Michigan.
 Bio as of 3 July 2020. 
 ***
 
-[Previous:empty.html](empty.html) [Top:001](001-intro_bio.html) [Next:002](002-origins.html)
+[Previous:empty](empty) [Top:001](001-intro_bio.md) [Next:002](002-origins.html)

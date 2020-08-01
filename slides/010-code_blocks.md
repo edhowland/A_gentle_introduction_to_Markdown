@@ -50,4 +50,4 @@ puts "Here is some text Ruby will print to stdout"
 Note: The original Markup.pl Perl script
 will render this with the 'Ruby' misplaced and no syntax coloring.***
 
-[Previous:009](009-links.html) [Top:001](001-intro_bio.html) [Next:011](011-final_thoughts.html)
+[Previous:009](009-links.md) [Top:001](001-intro_bio.md) [Next:011](011-final_thoughts.html)
