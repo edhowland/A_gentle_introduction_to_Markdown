@@ -26,13 +26,10 @@ $ ./mkhtml.sh
 
 ## Running in Docker
 
-Robert Citek [@rwcitek] has created a Docker image containing his presentation.
+Robert Citek [@rwcitek](https://github.com/rwcitek) has created a Docker image containing his presentation.
 It can be found here:
 <https://hub.docker.com/r/rwcitek/markdown.intro>
 
-In addition, he has kindly packaged this slide deck in a Docker image.
-It can be found here.
-<https://hub.docker.com/rwcitek/markdown.intro >
 
 
 
