@@ -46,4 +46,4 @@ Use 3 stars or underlines to make text both ***bold and italicized***.
 
 ***
 
-[Previous:005](005-blocks.md) [Top:001](001-intro_bio.md) [Next:007](007-lists.html)
+[Previous:005](005-blocks.md) [Top:001](001-intro_bio.md) [Next:007](007-lists.md)

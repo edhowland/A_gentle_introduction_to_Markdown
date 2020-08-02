@@ -46,7 +46,7 @@ do
   cat presentation/${mds[$i]} >> ./slides/${mds[$i]}
   echo "***" >>   ./slides/${mds[$i]}
   echo >>   ./slides/${mds[$i]}
-  echo "[Previous:$(page_no ${mds[$(expr $i - 1)]})](${mds[$(expr $i - 1)]}) [Top:001](${mds[1]}) [Next:$(page_no ${htmls[$(expr $i + 1)]})](${htmls[$(expr $i + 1)]})" >> ./slides/${mds[$i]}
+  echo "[Previous:$(page_no ${mds[$(expr $i - 1)]})](${mds[$(expr $i - 1)]}) [Top:001](${mds[1]}) [Next:$(page_no ${mds[$(expr $i + 1)]})](${mds[$(expr $i + 1)]})" >> ./slides/${mds[$i]}
 done
 rm presentation/empty
 
