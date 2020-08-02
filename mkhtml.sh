@@ -57,7 +57,7 @@ rm presentation/empty
 rm -f  html/*
 for i in ${!htmls[@]}
 do
-  ./Markdown_1.0.1/Markdown.pl slides/${mds[$i]} > html/${htmls[$i]}
+  sed -e s/\.md/\.html/g slides/${mds[$i]} | ./Markdown_1.0.1/Markdown.pl  > html/${htmls[$i]}
 done
 
 
