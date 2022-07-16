@@ -4,6 +4,19 @@ Slides from July 8th, 2020 tutorial on Markdown
 
 
 
+## Abstract
+
+This repository serves as the collection point for my presentation on Markdown
+given for the Base tutorial at the July 2020 meeting of the St. Louis Unix User's Group.
+
+## References
+
+To skip the actual presentation slides and learn more about the subject,
+here are some direct links:
+Getting starting (with Markdown)
+From markdownguide.org
+- [https://www.markdownguide.org/getting-started/](https://www.markdownguide.org/getting-started/)
+
 ## The slides
 
 For the impatient, follow this link to view the slide deck:
